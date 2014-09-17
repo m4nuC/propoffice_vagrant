@@ -1,0 +1,7 @@
+puphpet/files/dot/ssh
+
+.vagrant
+.DS_store
+*.swa
+*.swo
+*.swp
